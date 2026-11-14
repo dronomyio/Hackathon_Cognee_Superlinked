@@ -1,0 +1,153 @@
+[
+  {
+    "symbol": "COIN",
+    "name": "Coinbase Global",
+    "aliases": [
+      "Coinbase",
+      "Coinbase Global"
+    ],
+    "market": "US",
+    "exposure": "Crypto trading fees, custody and stablecoin-related revenue; affected by trading activity, regulation and platform-security news.",
+    "linkage": "direct",
+    "exposure_sources": [
+      "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q3-2026-Earnings-Show-All-time-high-Coinbase-One-Subscribers-and-Prediction-Markets-Surpassing-200-Million-in-Annualized-Revenue/"
+    ]
+  },
+  {
+    "symbol": "MSTR",
+    "name": "Strategy",
+    "aliases": [
+      "Strategy",
+      "MicroStrategy",
+      "Michael Saylor"
+    ],
+    "market": "US",
+    "exposure": "Bitcoin treasury value and financing; common stock has amplified Bitcoin exposure alongside capital-structure risks.",
+    "linkage": "direct",
+    "exposure_sources": [
+      "https://www.strategy.com/strategy"
+    ]
+  },
+  {
+    "symbol": "HOOD",
+    "name": "Robinhood Markets",
+    "aliases": [
+      "Robinhood",
+      "Robinhood Markets",
+      "Bitstamp"
+    ],
+    "market": "US",
+    "exposure": "Customer crypto trading and digital-asset services; crypto is one part of a diversified brokerage business.",
+    "linkage": "direct",
+    "exposure_sources": [
+      "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-third-quarter-2026-results"
+    ]
+  },
+  {
+    "symbol": "CRCL",
+    "name": "Circle Internet Group",
+    "aliases": [
+      "Circle Internet Group",
+      "USDC"
+    ],
+    "market": "US",
+    "exposure": "USDC circulation, adoption and reserve income; stablecoin regulation and interest rates matter independently of Bitcoin prices.",
+    "linkage": "direct",
+    "exposure_sources": [
+      "https://investor.circle.com/overview/default.aspx",
+      "https://s206.q4cdn.com/265218871/files/doc_earnings/2026/q3/earnings-result/3Q26-Earnings-Release.pdf"
+    ]
+  },
+  {
+    "symbol": "MARA",
+    "name": "MARA Holdings",
+    "aliases": [
+      "MARA Holdings",
+      "Marathon Digital",
+      "MARA"
+    ],
+    "market": "US",
+    "exposure": "Bitcoin mining economics and treasury; compute-infrastructure expansion, financing and power costs are competing drivers.",
+    "linkage": "direct",
+    "exposure_sources": [
+      "https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000026/q326shareholderletter.htm"
+    ]
+  },
+  {
+    "symbol": "RIOT",
+    "name": "Riot Platforms",
+    "aliases": [
+      "Riot Platforms",
+      "Riot Blockchain"
+    ],
+    "market": "US",
+    "exposure": "Bitcoin mining revenue and treasury alongside data-center strategy; network difficulty, electricity costs and AI infrastructure also matter.",
+    "linkage": "direct",
+    "exposure_sources": [
+      "https://www.sec.gov/Archives/edgar/data/1167419/000110465926122417/riot-20260930x10q.htm"
+    ]
+  },
+  {
+    "symbol": "XYZ",
+    "name": "Block",
+    "aliases": [
+      "Block Inc",
+      "Block, Inc.",
+      "Cash App",
+      "Bitkey"
+    ],
+    "market": "US",
+    "exposure": "Corporate Bitcoin holdings, Cash App Bitcoin services and Bitcoin hardware; payments remain another major business driver.",
+    "linkage": "direct",
+    "exposure_sources": [
+      "https://block.xyz/proof-of-reserves",
+      "https://block.xyz/documents/bitcoin-blueprint.pdf"
+    ]
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings",
+    "aliases": [
+      "PayPal",
+      "PayPal Holdings",
+      "PYUSD",
+      "Venmo"
+    ],
+    "market": "US",
+    "exposure": "Consumer crypto services and the PYUSD commercial relationship; diversified payments exposure rather than a Bitcoin treasury proxy.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://s205.q4cdn.com/875401827/files/content_files/PYPL-3Q-26-10-Q.pdf"
+    ]
+  },
+  {
+    "symbol": "CME",
+    "name": "CME Group",
+    "aliases": [
+      "CME Group",
+      "Chicago Mercantile Exchange"
+    ],
+    "market": "US",
+    "exposure": "Cryptocurrency futures/options trading and clearing within a diversified exchange; volatility can raise activity even when crypto prices fall.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000068/cme-20260930.htm",
+      "https://www.cmegroup.com/newsletters/quarterly-cryptocurrencies-report/2026-q3-cryptocurrency-highlights.html"
+    ]
+  },
+  {
+    "symbol": "BLK",
+    "name": "BlackRock",
+    "aliases": [
+      "BlackRock",
+      "iShares Bitcoin",
+      "IBIT"
+    ],
+    "market": "US",
+    "exposure": "Digital-asset fund management and sponsorship economics; ETF Bitcoin assets belong to the funds and are not BlackRock corporate treasury holdings.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.ishares.com/us/products/digital-assets"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "hours": 48,
+  "results_per_query": 15,
+  "max_articles": 100,
+  "max_chars_per_article": 6000,
+  "max_synthesis_chars": 60000,
+  "concurrency": 3,
+  "sources": [
+    "youtube.com", "bloomberg.com", "reuters.com", "coindesk.com",
+    "cointelegraph.com", "decrypt.co", "theblock.co", "cnbc.com"
+  ],
+  "queries": [
+    "Latest cryptocurrency Bitcoin Ethereum Solana news market ETF regulation",
+    "Cryptocurrency stablecoin DeFi exchange hack exploit protocol funding news"
+  ]
+}

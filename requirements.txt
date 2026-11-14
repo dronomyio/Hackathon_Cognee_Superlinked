@@ -1,0 +1,6 @@
+band-sdk==9.1.0
+keenable==0.1.5
+httpx==0.28.1
+python-dotenv==1.2.4
+youtube-transcript-api==1.2.5
+matplotlib==3.11.2

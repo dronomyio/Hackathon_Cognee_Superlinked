@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/
+*.log
+
+# Local credentials, editor backups, and macOS metadata
+.env.*
+!.env.example
+*.swp
+*.swo
+*~
+.DS_Store

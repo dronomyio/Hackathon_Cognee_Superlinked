@@ -1,0 +1,136 @@
+[
+  {
+    "symbol": "TCS.NS",
+    "name": "Tata Consultancy Services",
+    "aliases": [
+      "Tata Consultancy Services",
+      "TCS Quartz"
+    ],
+    "market": "India",
+    "exposure": "Quartz provides crypto custody and transaction-processing software; revenue materiality and stock sensitivity are unquantified.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.tcs.com/what-we-do/products-platforms/quartz/solution/quartz-crypto-services"
+    ]
+  },
+  {
+    "symbol": "INFY.NS",
+    "name": "Infosys",
+    "aliases": [
+      "Infosys"
+    ],
+    "market": "India",
+    "exposure": "Digital-asset and tokenization integration services, including Chainlink partnership; no established direct coin-price exposure.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.infosys.com/about/alliances/chainlink.html"
+    ]
+  },
+  {
+    "symbol": "HCLTECH.NS",
+    "name": "HCL Technologies",
+    "aliases": [
+      "HCL Technologies",
+      "HCLTech"
+    ],
+    "market": "India",
+    "exposure": "Enterprise tokenization, blockchain and Web3 services; crypto-related revenue materiality is unknown.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.hcltech.com/blockchain-services"
+    ]
+  },
+  {
+    "symbol": "TECHM.NS",
+    "name": "Tech Mahindra",
+    "aliases": [
+      "Tech Mahindra"
+    ],
+    "market": "India",
+    "exposure": "Enterprise blockchain and NFT marketplace services; crypto-news effects on earnings are unproven.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.techmahindra.com/services/blockchain/"
+    ]
+  },
+  {
+    "symbol": "WIPRO.NS",
+    "name": "Wipro",
+    "aliases": [
+      "Wipro"
+    ],
+    "market": "India",
+    "exposure": "Stablecoin payments and tokenization consulting; service capability does not establish material crypto exposure.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.wipro.com/innovation/distributed-ledger-technologies-at-wipro/"
+    ]
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "name": "HDFC Bank",
+    "aliases": [
+      "HDFC Bank"
+    ],
+    "market": "India",
+    "exposure": "Digital rupee merchant payments; RBI CBDC participation is not Bitcoin or Ethereum exposure.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/press-release/2026/q1-jan-mar/january/PR-HDFC-Bank-integrates-CBDC-into-HDFC-Bank-SMartgateway.pdf"
+    ]
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "name": "ICICI Bank",
+    "aliases": [
+      "ICICI Bank"
+    ],
+    "market": "India",
+    "exposure": "RBI digital rupee wallet; weak crypto linkage and no demonstrated BTC or ETH earnings sensitivity.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.icici.bank.in/personal-banking/payments/e-wallet/digital-rupee/faqs"
+    ]
+  },
+  {
+    "symbol": "SBIN.NS",
+    "name": "State Bank of India",
+    "aliases": [
+      "State Bank of India",
+      "e-Rupee by SBI"
+    ],
+    "market": "India",
+    "exposure": "RBI digital rupee wallet; a payments-policy comparison name, not a cryptocurrency proxy.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://sbi.bank.in/web/personal-banking/digital/cbdc"
+    ]
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "name": "Axis Bank",
+    "aliases": [
+      "Axis Bank"
+    ],
+    "market": "India",
+    "exposure": "Digital rupee payments and UPI interoperability; sovereign CBDC use does not establish private-crypto exposure.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.axis.bank.in/payments/digital-rupee"
+    ]
+  },
+  {
+    "symbol": "KOTAKBANK.NS",
+    "name": "Kotak Mahindra Bank",
+    "aliases": [
+      "Kotak Mahindra Bank",
+      "Kotak Bank"
+    ],
+    "market": "India",
+    "exposure": "Digital rupee wallet and merchant payments; crypto-news stock impact requires separate company-specific evidence.",
+    "linkage": "indirect",
+    "exposure_sources": [
+      "https://www.kotak.bank.in/en/digital-banking/ways-to-bank/cbdc-digital-erupee.html"
+    ]
+  }
+]
