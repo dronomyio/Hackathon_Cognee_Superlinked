@@ -351,3 +351,13 @@ missing, rather than becoming zero. Refresh charts independently with
 `.venv/bin/python portfolio_charts.py`; completed stock monitoring cycles also
 refresh them automatically. `STOCK_SWARM_ENABLED=true` enables portfolio monitoring.
 Portfolio quantities and source records are private and must remain under `data/`.
+
+## Project presentation
+
+Five slides covering the problem, solution, architecture, validation, and value to a personal assistant.
+
+- [Editable PowerPoint](docs/presentation/Cognee_Superlinked_5_Slides.pptx)
+- [PDF slides](docs/presentation/Cognee_Superlinked_5_Slides.pdf)
+- [Slide preview](docs/presentation/preview.png)
+
+The deck includes speaker notes and identifies the pending Dot–Cognee write/retrieval test.
