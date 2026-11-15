@@ -354,10 +354,10 @@ Portfolio quantities and source records are private and must remain under `data/
 
 ## Project presentation
 
-Five slides covering the problem, solution, architecture, validation, and value to a personal assistant.
+Six slides presenting a unified brain for personal assistants: Muse and Dot, shared Cognee memory, external research agents, and a portfolio demonstration.
 
-- [Editable PowerPoint](docs/presentation/Cognee_Superlinked_5_Slides.pptx)
-- [PDF slides](docs/presentation/Cognee_Superlinked_5_Slides.pdf)
+- [Editable PowerPoint](docs/presentation/Cognee_Superlinked_6_Slides.pptx)
+- [PDF slides](docs/presentation/Cognee_Superlinked_6_Slides.pdf)
 - [Slide preview](docs/presentation/preview.png)
 
 The deck includes speaker notes and identifies the pending Dot–Cognee write/retrieval test.
